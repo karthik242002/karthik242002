@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthik242002
-- 👀 I’m interested in recreate the coding
+- 👀 I’m interested to recreate the coding
 - 🌱 I’m currently learning B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on karthiksiva153@gmail.com
